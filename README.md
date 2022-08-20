@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GoldenGoCoding
+- 👋 Hi, My name is Sanay.
 - 👀 I’m interested in The 3 Webketeers (HTML, JS, CSS), C#, C++
 - 🌱 I’m currently learning .NET
 - 📫 How to reach me: discord username: GGGOOO#2650
