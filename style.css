@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'San Francisco';
+    src: url('Font/SFUIDisplay-Regular.otf');
+}
+:root {
+    --background: #fff;
+    --float-background: #ddd8;
+}
+body {
+    background: var(--background);
+}
+* {
+    font-family: 'San Francisco';
+    transition: 0.5s;
+}
+h1 {
+    font-size: 150px;
+}
+@media (max-width: 1000px) {
+    h1 {
+        font-size: 70px;
+    }
+}
